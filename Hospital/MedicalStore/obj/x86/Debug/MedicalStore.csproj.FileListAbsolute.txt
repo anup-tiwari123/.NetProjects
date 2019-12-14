@@ -26,3 +26,14 @@ C:\Users\N\Documents\Visual Studio 2010\Projects\Hospital\MedicalStore\obj\x86\D
 C:\Users\N\Documents\Visual Studio 2010\Projects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.PatientBill.resources
 C:\Users\N\Documents\Visual Studio 2010\Projects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.Properties.Resources.resources
 C:\Users\N\Documents\Visual Studio 2010\Projects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.csproj.GenerateResource.Cache
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.csprojAssemblyReference.cache
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.delete.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.Form1.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.Home.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.NewDoctor.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.NewPatient.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.PatientBill.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.Properties.Resources.resources
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.csproj.GenerateResource.cache
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.exe
+D:\Work\GIT\Project\.NetProjects\Hospital\MedicalStore\obj\x86\Debug\MedicalStore.pdb

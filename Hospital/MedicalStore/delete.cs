@@ -10,6 +10,7 @@ using MySql.Data.MySqlClient;
 
 namespace MedicalStore
 {
+    //Comment Addedss
     public partial class delete : Form
     {
         public delete()
